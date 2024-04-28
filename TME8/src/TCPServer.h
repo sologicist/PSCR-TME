@@ -18,7 +18,7 @@ public :
 	bool startServer (int port);
 
 	// stoppe le serveur
-	void stopServer () ;
+	void stopServer ();
 };
 
 } // ns pr
